@@ -7,6 +7,28 @@
 
 > This repository contains codes made with PHP Unit, only for learning purposes
 
+## Running
+
+> These tests can be executed with docker-compose:
+
+```bash
+docker-compose up test
+```
+
+> Or just docker:
+
+```bash
+docker image build -f Dockerfile -t php-unit-test .
+docker container run --name php-unit-test php-unit-test
+```
+
+> Or even directly with php-unit through command line, it is required *composer*
+
+```bash
+composer install
+./vendor/bin/phpunit --testdox
+```
+
 ## Authors
 
 * **Julio Cesar** - *Initial work*
