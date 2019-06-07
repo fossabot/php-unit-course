@@ -1,5 +1,6 @@
 # PHP Unit Course
 
+[![Build Status](https://badgen.net/travis/julio-cesar-development/php-unit-course?icon=travis)](https://travis-ci.org/julio-cesar-development/php-unit-course)
 ![Language](https://badgen.net/badge/language/php/blue)
 ![License](https://badgen.net/badge/license/MIT/blue)
 [![GitHub Status](https://badgen.net/github/status/julio-cesar-development/php-unit-course)](https://github.com/julio-cesar-development/php-unit-course)
